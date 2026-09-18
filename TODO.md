@@ -23,9 +23,9 @@ checked off (with date + commit) when done. Research avenues live in
 ## Research avenues (from gorp-mind/avenues.md)
 
 - [x] 1–8: syscalls, NE, VBE, GPU 2D, filesystem, compilers, firmware, shell grammar (done 2026-09-17)
-- [ ] 11: License verification sweep for compiler candidates ← in progress
-- [ ] 12: PIC/APIC + PIT/HPET programming reference ← in progress
-- [ ] 13: i386 TLS/segmentation deep dive ← in progress
+- [x] 11: License verification sweep for compiler candidates (done 2026-09-18; tcc LGPL-2.1 usable, cproc/QBE ISC+MIT cleared, lcc DISQUALIFIED, SmallerC license unverified→hold)
+- [x] 12: PIC/APIC + PIT/HPET programming reference (done 2026-09-18; docs/INTERRUPTS_REF.md — unblocks R-18 bring-up)
+- [x] 13: i386 TLS/segmentation deep dive (done 2026-09-18; docs/TLS_I386.md — set_thread_area contract, clone arg map, %gs-why)
 - [ ] 14: Voodoo3 driver bring-up plan ← in progress
 - [ ] 15: GorpFS v0 full on-disk spec + 8-bit foreign-view translation layer ← in progress
 - [ ] 9: Sound (AC'97 / Intel HDA) bring-up notes — untouched
