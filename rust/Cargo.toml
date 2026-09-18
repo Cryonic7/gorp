@@ -1,0 +1,12 @@
+[package]
+name = "gorp_os"
+version = "0.1.0"
+edition = "2021"
+description = "GorpOS kernel core (packed cells, bit-width allocator, ternary logic) — faithful Rust mirror of src/kernel/*.h"
+
+[lib]
+name = "gorp_os"
+path = "src/lib.rs"
+
+# no_std compatible: the library itself uses only `core`.
+# Tests run on std via the normal test harness.

@@ -1,0 +1,10 @@
+# build artifacts
+rust/target/
+*.o
+*.bin
+*.elf
+*.img
+*.tar.gz
+# editor noise
+.DS_Store
+*~
