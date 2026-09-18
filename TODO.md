@@ -26,8 +26,8 @@ checked off (with date + commit) when done. Research avenues live in
 - [x] 11: License verification sweep for compiler candidates (done 2026-09-18; tcc LGPL-2.1 usable, cproc/QBE ISC+MIT cleared, lcc DISQUALIFIED, SmallerC license unverified→hold)
 - [x] 12: PIC/APIC + PIT/HPET programming reference (done 2026-09-18; docs/INTERRUPTS_REF.md — unblocks R-18 bring-up)
 - [x] 13: i386 TLS/segmentation deep dive (done 2026-09-18; docs/TLS_I386.md — set_thread_area contract, clone arg map, %gs-why)
-- [ ] 14: Voodoo3 driver bring-up plan ← in progress
-- [ ] 15: GorpFS v0 full on-disk spec + 8-bit foreign-view translation layer ← in progress
+- [x] 14: Voodoo3 driver bring-up plan (done 2026-09-18; docs/VOODOO3_PLAN.md — Avenger Spec mined, S0–S8 checklist)
+- [x] 15: GorpFS v0 full on-disk spec + 8-bit foreign-view translation layer (done 2026-09-18; docs/GORPFS_SPEC.md — normative spec, 14 v0 decisions)
 - [ ] 9: Sound (AC'97 / Intel HDA) bring-up notes — untouched
 - [ ] 10: USB (UHCI/OHCI) + networking (NE2000/RTL8139) — untouched
 
