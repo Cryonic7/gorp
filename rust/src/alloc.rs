@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: Apache-2.0
 //! Dynamic bit-width region allocator (packed).
 //! Mirror of `src/kernel/alloc.h` / `alloc.c`.
 //!

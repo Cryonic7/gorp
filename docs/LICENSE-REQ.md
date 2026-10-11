@@ -100,8 +100,8 @@ in `gorp-mind/decisions.md`.
 
 ## 5. Action items
 
-- [ ] **Pick a license for our code** (recommended: Apache-2.0) and add the
-      `LICENSE` file. Until then the repo is all-rights-reserved by default.
+- [x] **Pick a license for our code** — DONE 2026-10-11: Apache-2.0 chosen by
+      project owner. `LICENSE` file added; SPDX headers on all source files.
 - [ ] Fill in §4 from avenue 11 (`docs/COMPILERS_LICENSES.md`) when it lands.
 - [ ] Standing rule: never paste OSDev Wiki code/text verbatim (CC-BY-SA).
 - [ ] If 64-bit division ever appears in kernel C, resolve the libgcc helper

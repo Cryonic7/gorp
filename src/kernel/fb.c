@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: Apache-2.0
 // fb.c — VGA Mode 13h framebuffer, host-testable stubs
 //
 // 8086 real mode: pixels map to segment 0xA000:0000 (64K window, we use 64000).

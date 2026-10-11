@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: Apache-2.0
 // dos_compat.h — provisioning for DOS binary support (target 1)
 // Strategy: NOT native DOS. We provide a loader + INT 21h shim that
 // translates DOS calls into our kernel calls, on 8086 real mode.

@@ -1,4 +1,5 @@
 #!/bin/sh
+# SPDX-License-Identifier: Apache-2.0
 # build.sh — build GorpOS bootable image (Pentium 4 / IA-32 baseline)
 # Requires: nasm, gcc (with -m32), ld, objcopy
 # Optional: qemu-system-i386 (for the boot test at the end)

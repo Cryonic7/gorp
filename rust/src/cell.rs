@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: Apache-2.0
 //! Packed variable-width cells on 16-bit words.
 //! Mirror of `src/kernel/cell.h` (packed v1).
 //!

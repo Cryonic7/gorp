@@ -1,3 +1,4 @@
+/* SPDX-License-Identifier: Apache-2.0 */
 /* kernel.ld — link GorpOS 32-bit kernel at 0x10000 (Pentium 4 baseline)
  * Build: ld -m elf_i386 -T kernel.ld -o kernel.elf kernel.o
  *        objcopy -O binary kernel.elf kernel.bin

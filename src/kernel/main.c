@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: Apache-2.0
 // main.c — GorpOS kernel entry, Pentium 4 (IA-32) baseline
 //
 // TARGET BUILD (32-bit protected mode, paging on, identity-mapped):

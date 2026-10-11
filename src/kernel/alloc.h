@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: Apache-2.0
 // alloc.h — dynamic bit-width region allocator (packed)
 // Physical backing: uint16_t words. Logical view: width-tagged cells.
 // Best-judgment v0: first-fit with coalescing, width is per-region immutable

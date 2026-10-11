@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: Apache-2.0
 // trit.h — kernel-native ternary boolean (Kleene logic)
 // Stored in 2 bits: 0=false, 1=unknown, 2=true (3=reserved)
 

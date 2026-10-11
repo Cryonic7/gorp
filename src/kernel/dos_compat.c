@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: Apache-2.0
 // dos_compat.c — DOS .COM / MZ .EXE loader + INT 21h shim
 //
 // HOST-TESTABLE: all logic here is pure C on the allocator. The only

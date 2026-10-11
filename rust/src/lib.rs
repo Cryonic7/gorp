@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: Apache-2.0
 //! GorpOS kernel core — Rust mirror of `src/kernel/`.
 //!
 //! Faithful port of the C logic: packed variable-width cells, the

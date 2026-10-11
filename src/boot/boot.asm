@@ -1,3 +1,4 @@
+; SPDX-License-Identifier: Apache-2.0
 ; boot.asm — GorpOS boot sector, Pentium 4 (IA-32) baseline
 ; Assembler: nasm -f bin boot.asm -o boot.bin   (must be exactly 512 bytes)
 ;

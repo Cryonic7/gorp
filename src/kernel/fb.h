@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: Apache-2.0
 // fb.h — framebuffer abstraction, VGA Mode 13h (320x200, 256 colors)
 // REAL v1 graphics target. Pixel data lives in 8-bit regions: one byte
 // per pixel = one VGA DAC palette index. No packing in the hot path.

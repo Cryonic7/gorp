@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: Apache-2.0
 // io.h — port I/O primitives (Pentium 4 / IA-32 baseline)
 //
 // IN/OUT instructions are still valid on Pentium 4, so these work

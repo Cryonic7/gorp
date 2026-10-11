@@ -1,3 +1,4 @@
+; SPDX-License-Identifier: Apache-2.0
 ; stage2.asm — GorpOS stage 2, Pentium 4 (IA-32) baseline
 ; Loaded by boot.asm to 0x7E00. Flat binary: 16-bit prologue followed
 ; by 32-bit protected-mode code.

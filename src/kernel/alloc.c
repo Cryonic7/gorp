@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: Apache-2.0
 // alloc.c — first-fit packed allocator, 8/10/13-bit regions
 // Host-testable (no 8086 asm here). Bit_base allocator with simple
 // first-fit scan and coalescing on free via region list compaction.

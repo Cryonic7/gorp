@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: Apache-2.0
 //! Kernel-native ternary boolean (Kleene logic).
 //! Mirror of `src/kernel/trit.h`.
 

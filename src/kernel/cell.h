@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: Apache-2.0
 // cell.h — packed variable-width cells on 8086
 // Supports discrete 8, 10, 13-bit modes, packed bit-stream across 16-bit words.
 // No per-cell padding in v1; every access is shift+mask.
